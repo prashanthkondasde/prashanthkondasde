@@ -9,10 +9,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
   <h1>Hey there, I'm Prashanth Konda! 👋</h1>
-
-  <a href="https://git.io/typing-svg">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full stack + AI development)]
+ <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Crafting+Web+Solutions+Since+2017;React+%26+Node.js+Expert;Building+Scalable+Applications" alt="Typing SVG" />
-  </a>
+  </a>-->
 </div>
 
 ---
